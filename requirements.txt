@@ -85,7 +85,7 @@ partial-json-parser==0.2.1.1.post7
 peft==0.14.0
 pfzy==0.3.4
 phonemizer==3.3.0
-pillow==11.3.0
+pillow==13.0.0
 platformdirs==4.5.0
 pooch==1.8.2
 prometheus-client==0.23.1
